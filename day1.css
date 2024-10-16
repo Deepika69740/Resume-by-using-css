@@ -1,0 +1,19 @@
+#sec-1{
+    background-color: cyan;
+}
+.sec-2{
+    background-color: darkorchid;
+}
+#sec-3{
+    background-color: lightsalmon;
+    color:black
+}
+.sec{
+    background-color: coral;
+}
+#sec-4{
+    background-color: aqua;
+}
+p{
+    background-color: darkgoldenrod;
+}
